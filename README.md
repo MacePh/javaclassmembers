@@ -4,9 +4,9 @@
 
 The instructor's name is Scott Dossey
 
-## Students
+## Student
 
 - Test student 1
 - Mace Phillips
 - Richard Murphy
-*Claire Novak
+- Claire Novak
